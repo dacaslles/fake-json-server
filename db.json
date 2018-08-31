@@ -1,19 +1,19 @@
 {
-  "questions": [
+  "votos": [
     {
       "id": "1",
-      "text": "this is the text",
-	  "answers" : ["answer a", "answer b", "answer c", "answer d"]
+      "dpi": "123",
+ 	  "codigoPartido": "2"
     },
     {
       "id": "2",
-      "text": "this is the text",
-	  "answers" : ["answer a", "answer b", "answer c", "answer d"]
+	  "dpi": "234",
+ 	  "codigoPartido": "3"
     },
     {
       "id": "3",
-      "text": "this is the text",
-	  "answers" : ["answer a", "answer b", "answer c", "answer d"]
+      "dpi": "567",
+ 	  "codigoPartido": "4"
     }
   ]
 }
