@@ -3,17 +3,20 @@
     {
       "id": "1",
       "dpi": "123",
- 	  "codigoPartido": "2"
+ 	  "codigoPartido": "2",
+	    "mesa": "4"
     },
     {
       "id": "2",
 	  "dpi": "234",
- 	  "codigoPartido": "3"
+ 	  "codigoPartido": "3",
+	    "mesa": "2"
     },
     {
       "id": "3",
       "dpi": "567",
- 	  "codigoPartido": "4"
+ 	  "codigoPartido": "4",
+	   "mesa": "5"
     }
   ]
 }
